@@ -1,16 +1,11 @@
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Piotr_Wezgraj-informational?style=social&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/piotr-wezgraj/)
 ### Hi there 👋
-
-<!--
-**wepiotrek/wepiotrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Piotr,  and I am just a FullStack Developer. My first Hello World was in Pascal when I was 12 years old. I am constantly trying to broaden my skills.
+### My best skills ✨
+- PHP
+- Kotlin/Java: Android Development
+- Linux
+### Git stats (public PRs) 📈
+<a href="https://github.com/eclectic-coding">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=wepiotrek&theme=dark&count_private=true" alt="Piotr's GitHub Stats" />
+</a>
