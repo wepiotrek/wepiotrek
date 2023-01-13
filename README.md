@@ -5,7 +5,9 @@ My name is Piotr,  and I am just a FullStack Developer. My first Hello World was
 - PHP
 - Kotlin/Java: Android Development
 - Linux
-### Git stats (public PRs) 📈
-<a href="https://github.com/wepiotrek">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=wepiotrek&theme=dark&count_private=true" alt="Piotr's GitHub Stats" />
-</a>
+### Git stats 📈
+![](https://raw.githubusercontent.com/wepiotrek/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wepiotrek/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![](https://raw.githubusercontent.com/wepiotrek/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/wepiotrek/github-stats/master/generated/languages.svg#gh-light-mode-only)
